@@ -3,6 +3,7 @@
 A blocklist containing subdomains used for CNAME cloaking to bypass ad-blockers with Simple Analytics.
 
 > Bypass ad-blockers
+>
 > Simple Analytics never collects any personal identifiable information. Ad-blockers see us just any other analytics company and some of the ad-blockers are blocking our domain as a result. To prevent your stats being blocked as a result we allow you to setup a bypass. This basically hides Simple Analytics’ server name from the browser by redirecting a subdomain to our domain.
 >
 > Setup a custom subdomain
