@@ -12,3 +12,9 @@ A blocklist containing subdomains used for CNAME cloaking to bypass ad-blockers 
 > You will need to enable the record in your website settings on Simple Analytics. We need to know this to request a certificate with Let’s Encrypt. This means your analytics will travel safe via HTTPS to our servers.
 >
 > Source: docs.simpleanalytics.com/bypass-ad-blockers
+
+## Adblock Filter List
+
+An aggregated list containing CNAME cloaked trackers used by Fathom Analytics, Plausible Analytics and Simple Analytics. 
+
+Adblock Filter List: [Unethical Web Analytics Blocklist](https://github.com/rogercomply/unethical-web-analytics). 
